@@ -1,6 +1,6 @@
 Audio Profiles
 ==============
-"Share your good sounding Stuff"
+"Share your Sweet Sounding Stuff"
 --------------------------------
 
 AudioProfiles is a new site where audiophiles, audio enthusiasts, and anyone interested in audio gear can make a profile to show off their stuff.
@@ -29,7 +29,7 @@ Implementation and Feature Plan
 	- Improve gear listing page based on reviews, ratings, and views to help find popular gear.
 	- Review rating and reputation system like reddit. Up/downvotes plus inline display of user's karma.
 
-4. Extend to other gear types if possible.
+4. **Extend to other gear types if possible.**
 	- Video/Home Theater
 	- Etc.
 	- Rename to "StuffProfiles"
