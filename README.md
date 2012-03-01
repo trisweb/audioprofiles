@@ -23,9 +23,9 @@ Implementation and Feature Plan
 
 3. **More complex gear functionality.**
 	- User notes and reviews. Notes can be private or public, reviews are always public.
-	- Quick ratings.
+	- Quick ratings, including a way to easily mass-rate your stuff (especially good if this phase is an upgrade)
 	- Purchase links, and purchase prices per user; to come up with an "average price."
-	- "Status" - tags. "listened to", "own", "want", "to buy", etc. Ala Goodreads?
+	- "Status" - tags. "listened to", "own", "want", "to buy", etc. Ala Goodreads? Could also be fixed options, custom tags not entirely necessary but would be nice.
 	- Improve gear listing page based on reviews, ratings, and views to help find popular gear.
 	- Review rating and reputation system like reddit. Up/downvotes plus inline display of user's karma.
 
