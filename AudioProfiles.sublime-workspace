@@ -1,0 +1,604 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"update_se",
+				"update_setting_from_instance_var"
+			],
+			[
+				"account",
+				"account_attributes"
+			],
+			[
+				"do",
+				"do"
+			],
+			[
+				"check",
+				"check_threshold"
+			],
+			[
+				"creat",
+				"create"
+			],
+			[
+				"response_",
+				"response_whitelisted2"
+			],
+			[
+				"response_w",
+				"response_whitelisted1"
+			],
+			[
+				"create",
+				"created_at"
+			],
+			[
+				"time",
+				"time_threshold_days"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 28.0,
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 435.0
+	},
+	"console":
+	{
+		"height": 198.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/trisweb/Projects/audioprofiles/Gemfile",
+		"/Users/trisweb/SocialSci/socialsci/Gemfile",
+		"/Users/trisweb/Projects/audioprofiles/README.md",
+		"/Users/trisweb/Projects/audioprofiles/.git/COMMIT_EDITMSG",
+		"/Users/trisweb/SocialSci/socialsci/app/mailers/notifier.rb",
+		"/Users/trisweb/SocialSci/socialsci/app/controllers/messages_controller.rb",
+		"/Users/trisweb/SocialSci/socialsci/spec/requests/researcher_change_password_spec.rb",
+		"/Users/trisweb/SocialSci/socialsci/spec/requests/researcher_send_message_spec.rb",
+		"/Users/trisweb/SocialSci/socialsci/app/models/message.rb",
+		"/Users/trisweb/SocialSci/socialsci/app/views/messages/new.html.erb",
+		"/Users/trisweb/SocialSci/socialsci/config/notifier.rb",
+		"/Users/trisweb/SocialSci/socialsci/app/views/publish/open.html.erb",
+		"/Users/trisweb/SocialSci/socialsci/app/helpers/application_helper.rb",
+		"/Users/trisweb/SocialSci/socialsci/app/views/admin/accounts/details.html.erb",
+		"/Users/trisweb/SocialSci/socialsci/.git/COMMIT_EDITMSG",
+		"/Users/trisweb/SocialSci/socialsci/app/views/admin/users/index.html.erb",
+		"/Users/trisweb/SocialSci/socialsci/app/views/layouts/publish.html.erb",
+		"/Users/trisweb/SocialSci/socialsci/app/views/messages/sent.html.erb",
+		"/Users/trisweb/SocialSci/socialsci/app/views/messages/_inbox_nav.html.erb",
+		"/Users/trisweb/SocialSci/socialsci/app/helpers/publish_helper.rb",
+		"/Users/trisweb/SocialSci/socialsci/app/views/admin/messages/new.html.erb",
+		"/Users/trisweb/SocialSci/socialsci/app/models/question.rb",
+		"/Users/trisweb/SocialSci/socialsci/app/controllers/dragdrop_surveys_controller.rb",
+		"/Users/trisweb/SocialSci/socialsci/spec/models/question_spec.rb",
+		"/Users/trisweb/SocialSci/surveyFlexv2/.git/COMMIT_EDITMSG",
+		"/Users/trisweb/SocialSci/socialsci/config/initializers/quiet_assets.rb",
+		"/Users/trisweb/SocialSci/socialsci/config/environments/development.rb",
+		"/Users/trisweb/SocialSci/socialsci/spec/models/question_setting_spec.rb",
+		"/Users/trisweb/SocialSci/socialsci/.watchr",
+		"/Users/trisweb/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/trisweb/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/trisweb/SocialSci/socialsci/config/rubyamf_config.rb",
+		"/Users/trisweb/SocialSci/socialsci/.git/rebase-merge/git-rebase-todo",
+		"/Users/trisweb/SocialSci/surveyFlexv2/.git/rebase-merge/git-rebase-todo",
+		"/Users/trisweb/SocialSci/socialsci/spec/models/message_spec.rb",
+		"/Users/trisweb/SocialSci/socialsci/spec/controllers/dragdrop_responses_controller_spec.rb",
+		"/Users/trisweb/SocialSci/socialsci/app/models/ip_log.rb",
+		"/Users/trisweb/SocialSci/socialsci/spec/models/ip_log_spec.rb",
+		"/Users/trisweb/SocialSci/socialsci/app/models/audio.rb",
+		"/Users/trisweb/SocialSci/socialsci/spec/models/audio_spec.rb",
+		"/Users/trisweb/SocialSci/socialsci/spec/models/account_spec.rb",
+		"/Users/trisweb/SocialSci/socialsci/app/views/users/edit.html.erb",
+		"/Users/trisweb/SocialSci/socialsci/app/models/subscription.rb",
+		"/Users/trisweb/SocialSci/socialsci/app/controllers/researchers_controller.rb",
+		"/Users/trisweb/SocialSci/socialsci/spec/models/activity_spec.rb",
+		"/Users/trisweb/SocialSci/socialsci/app/models/tier.rb",
+		"/Users/trisweb/SocialSci/socialsci/spec/requests/user_change_password_spec.rb",
+		"/Users/trisweb/SocialSci/socialsci/spec/models/skip_logic_spec.rb",
+		"/Users/trisweb/SocialSci/socialsci/app/models/study_stat.rb",
+		"/Users/trisweb/SocialSci/socialsci/spec/models/dragdrop_survey_spec.rb",
+		"/Users/trisweb/SocialSci/socialsci/app/views/researchers/settings.html.erb",
+		"/Users/trisweb/.bash_profile",
+		"/Users/trisweb/SocialSci/socialsci/spec/factories/accounts.rb",
+		"/Users/trisweb/SocialSci/socialsci/app/models/account_session.rb",
+		"/Users/trisweb/SocialSci/socialsci/app/models/activity_search.rb",
+		"/Users/trisweb/SocialSci/socialsci/app/controllers/users_controller.rb",
+		"/Users/trisweb/SocialSci/socialsci/app/views/researchers/_form.html.erb",
+		"/Users/trisweb/SocialSci/socialsci/watch",
+		"/Users/trisweb/SocialSci/socialsci/spec/spec_helper.rb",
+		"/Users/trisweb/SocialSci/socialsci/app/views/shared/_error_messages.html.erb",
+		"/Users/trisweb/SocialSci/socialsci/app/assets/stylesheets/old_application.css.scss",
+		"/Users/trisweb/SocialSci/socialsci/app/views/password_resets/participant.html.erb",
+		"/Users/trisweb/SocialSci/socialsci/app/controllers/password_resets_controller.rb",
+		"/Users/trisweb/SocialSci/socialsci/app/models/researcher.rb",
+		"/Users/trisweb/SocialSci/socialsci/app/models/account.rb",
+		"/Users/trisweb/SocialSci/socialsci/config/keys/recaptcha.yml",
+		"/Users/trisweb/SocialSci/socialsci/config/keys/recaptcha.sample.yml",
+		"/Users/trisweb/SocialSci/socialsci/app/views/static/participants.html.erb",
+		"/Users/trisweb/SocialSci/socialsci/app/models/user.rb",
+		"/Users/trisweb/SocialSci/socialsci/app/assets/stylesheets/application.css",
+		"/Users/trisweb/SocialSci/socialsci/app/assets/stylesheets/admin.css",
+		"/Users/trisweb/Downloads/binaryage-totalterminal-817e3ef/rakefile",
+		"/Users/trisweb/SocialSci/socialsci/spec/controllers/studies_controller_spec.rb",
+		"/Users/trisweb/SocialSci/socialsci/spec/controllers/participations_controller_spec.rb",
+		"/Users/trisweb/SocialSci/socialsci/app/controllers/vettings_controller.rb",
+		"/Users/trisweb/SocialSci/socialsci/spec/controllers/vettings_controller_spec.rb",
+		"/Users/trisweb/SocialSci/socialsci/app/models/dragdrop_response.rb",
+		"/Users/trisweb/SocialSci/socialsci/app/models/response.rb",
+		"/Users/trisweb/SocialSci/socialsci/spec/factories/studies.rb",
+		"/Users/trisweb/SocialSci/socialsci/app/controllers/application_controller.rb",
+		"/Users/trisweb/SocialSci/socialsci/app/views/studies/confirm_to_edit.html.erb",
+		"/Users/trisweb/SocialSci/socialsci/app/controllers/studies_controller.rb",
+		"/Users/trisweb/SocialSci/socialsci/spec/controllers/publish_controller_spec.rb",
+		"/Users/trisweb/Library/Application Support/Sublime Text 2/Packages/Git/Git Commit Message.tmLanguage",
+		"/Users/trisweb/Desktop/Git Commit Message.tmLanguage",
+		"/Applications/TextMate.app/Contents/SharedSupport/Bundles/Git.tmbundle/Syntaxes/Git Commit Message.tmLanguage",
+		"/tmp/subl stdin kJ1YQR.txt",
+		"/Users/trisweb/SocialSci/socialsci/spec/spec.opts",
+		"/Users/trisweb/SocialSci/socialsci/.rspec",
+		"/Users/trisweb/SocialSci/socialsci/app/views/studies/settings.html.erb",
+		"/Users/trisweb/SocialSci/socialsci/app/models/study.rb",
+		"/Users/trisweb/SocialSci/socialsci/spec/factories/general.rb",
+		"/Users/trisweb/SocialSci/socialsci/spec/factories/researchers.rb",
+		"/Users/trisweb/SocialSci/socialsci/spec/controllers/static_controller_spec.rb",
+		"/Users/trisweb/SocialSci/socialsci/app/controllers/participations_controller.rb",
+		"/Users/trisweb/SocialSci/socialsci/app/observers/study_observer.rb",
+		"/Users/trisweb/SocialSci/socialsci/spec/models/study_spec.rb",
+		"/Users/trisweb/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/trisweb/SocialSci/socialsci/app/controllers/responses_controller.rb",
+		"/Users/trisweb/SocialSci/socialsci/.git/hooks/commit-msg",
+		"/Users/trisweb/SocialSci/socialsci/config/database.yml",
+		"/Users/trisweb/SocialSci/socialsci/spec/models/response_spec.rb",
+		"/Users/trisweb/SocialSci/socialsci/config/settings.yml",
+		"/Users/trisweb/SocialSci/socialsci/spec/models/response_curation_spec.rb",
+		"/Users/trisweb/SocialSci/socialsci/app/models/response_stat.rb",
+		"/Users/trisweb/SocialSci/socialsci/app/assets/javascripts/old_application.js",
+		"/Users/trisweb/SocialSci/socialsci/app/assets/javascripts/application.js",
+		"/Users/trisweb/SocialSci/socialsci/app/views/participations/new.html.erb",
+		"/Users/trisweb/SocialSci/socialsci/app/views/pool_requests/approved_qa_completed.html.erb",
+		"/Users/trisweb/SocialSci/socialsci/app/views/contents/show.html.erb",
+		"/Users/trisweb/SocialSci/socialsci/app/views/pool_requests/_launch_guide.html.erb",
+		"/Users/trisweb/SocialSci/socialsci/app/views/pool_requests/approved_qa_pending.html.erb",
+		"/Users/trisweb/SocialSci/socialsci/app/views/studies/_study_title.html.erb",
+		"/Users/trisweb/SocialSci/socialsci/app/controllers/publish_controller.rb",
+		"/Users/trisweb/Library/Application Support/Sublime Text 2/Packages/SublimeRailsNav/SublimeRailsNav.sublime-settings",
+		"/Users/trisweb/SocialSci/socialsci/config/routes.rb"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"-*cache*",
+			"-*cache* /spec",
+			"-*cache*",
+			"-*dragonfly*",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".",
+			"clippy",
+			"def user_link",
+			"margin:-20px",
+			"mark as test account",
+			"clippy",
+			"def link_to_unless_current",
+			"link_to_unless_current",
+			"#mass_send",
+			"current_researcher",
+			"setting.",
+			"survey_actions",
+			"      ",
+			"update_setting_from_instance_var",
+			"build_setting",
+			"setting",
+			"settings",
+			"after",
+			"        ",
+			"Array:",
+			"Visually verify",
+			"puts",
+			"tersting",
+			"checking if",
+			"Change Password",
+			"user_account",
+			"@user",
+			"signup_ip",
+			"\"",
+			"alert-message",
+			"errorExplanation",
+			"password_confirmation",
+			"password",
+			"      <",
+			">",
+			"help-block",
+			"status",
+			"def paginate_if_needed",
+			"  ",
+			"You're trying to edit a live study",
+			"']",
+			"line",
+			"puts",
+			"`",
+			"researcher_or_admin_required",
+			"studies_scope",
+			"      ",
+			"          ",
+			"is_meta?",
+			":pool",
+			"pool?",
+			"parent",
+			"        ",
+			"check_threshold",
+			"mark_filled",
+			"changed the status for",
+			"filled?",
+			"meta",
+			"PATH",
+			"false",
+			"responses",
+			"    ",
+			"open?",
+			"        ",
+			"true",
+			"should",
+			")",
+			"existing_response",
+			"    ",
+			"\"",
+			"length",
+			"    ",
+			"referrer",
+			"_line",
+			"ctrl+d",
+			"def",
+			" ",
+			".referer",
+			".fancybox",
+			".ajaxbox",
+			".ajaxboc",
+			"public_title_",
+			"public_title_toolbox_options",
+			"admin_study_path",
+			"admin_study_path\\",
+			"admin_study_path(",
+			"fancybox.",
+			"popup-container",
+			".public",
+			"Content",
+			"What happens next?"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"messagenew",
+				"app/views/messages/new.html.erb"
+			],
+			[
+				"message.",
+				"app/models/message.rb"
+			],
+			[
+				"messaes",
+				"app/controllers/messages_controller.rb"
+			],
+			[
+				"notifi",
+				"app/mailers/notifier.rb"
+			],
+			[
+				"applio",
+				"app/helpers/application_helper.rb"
+			],
+			[
+				"admin/account",
+				"app/views/admin/accounts/details.html.erb"
+			],
+			[
+				"publish",
+				"app/views/layouts/publish.html.erb"
+			],
+			[
+				"apphelper",
+				"app/helpers/application_helper.rb"
+			],
+			[
+				"applicationhelp",
+				"app/helpers/application_helper.rb"
+			],
+			[
+				"notifier",
+				"config/notifier.rb"
+			],
+			[
+				"message",
+				"app/models/message.rb"
+			],
+			[
+				"question.r",
+				"app/models/question.rb"
+			],
+			[
+				"question_setting_spec",
+				"spec/models/question_setting_spec.rb"
+			],
+			[
+				"question_spe",
+				"spec/models/question_spec.rb"
+			],
+			[
+				"rubyam",
+				"config/rubyamf_config.rb"
+			],
+			[
+				"question",
+				"app/models/question.rb"
+			],
+			[
+				"rubyamf",
+				"config/rubyamf_config.rb"
+			],
+			[
+				"_spec",
+				"spec/models/message_spec.rb"
+			],
+			[
+				"question_sp",
+				"spec/models/question_spec.rb"
+			],
+			[
+				"audio",
+				"app/models/audio.rb"
+			],
+			[
+				"iplog",
+				"app/models/ip_log.rb"
+			],
+			[
+				"ip_log_spec.rb",
+				"spec/models/ip_log_spec.rb"
+			],
+			[
+				"spec",
+				"spec/models/activity_spec.rb"
+			],
+			[
+				"audio.rb",
+				"app/models/audio.rb"
+			],
+			[
+				"audio_spec",
+				"spec/models/audio_spec.rb"
+			],
+			[
+				"tier",
+				"app/models/tier.rb"
+			],
+			[
+				"subscription",
+				"app/models/subscription.rb"
+			],
+			[
+				"settings.h",
+				"app/views/researchers/settings.html.erb"
+			],
+			[
+				"spec_hel",
+				"spec/spec_helper.rb"
+			],
+			[
+				"gemf",
+				"Gemfile"
+			],
+			[
+				"shared/",
+				"app/views/shared/_error_messages.html.erb"
+			],
+			[
+				"password_reset",
+				"app/controllers/password_resets_controller.rb"
+			],
+			[
+				"password_resets/",
+				"app/views/password_resets/participant.html.erb"
+			],
+			[
+				"participants",
+				"app/views/static/participants.html.erb"
+			],
+			[
+				"old_appl",
+				"app/assets/stylesheets/old_application.css.scss"
+			],
+			[
+				"applica",
+				"app/assets/stylesheets/application.css"
+			],
+			[
+				".css",
+				"app/assets/stylesheets/admin.css"
+			],
+			[
+				"controller_spec",
+				"spec/controllers/studies_controller_spec.rb"
+			],
+			[
+				"response.r",
+				"app/models/response.rb"
+			],
+			[
+				"dragdrop_r",
+				"app/models/dragdrop_response.rb"
+			],
+			[
+				"vettings_contr",
+				"spec/controllers/vettings_controller_spec.rb"
+			],
+			[
+				"application_con",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"study",
+				"app/models/study.rb"
+			],
+			[
+				"studies_spec",
+				"spec/controllers/studies_controller_spec.rb"
+			],
+			[
+				"study_obser",
+				"app/observers/study_observer.rb"
+			],
+			[
+				"response_contro",
+				"app/controllers/responses_controller.rb"
+			],
+			[
+				"study_spec",
+				"spec/models/study_spec.rb"
+			],
+			[
+				"partici",
+				"app/controllers/participations_controller.rb"
+			],
+			[
+				"user.r",
+				"app/models/user.rb"
+			],
+			[
+				"res",
+				"app/models/response_stat.rb"
+			],
+			[
+				"study.",
+				"app/models/study.rb"
+			],
+			[
+				"study_tit",
+				"app/views/studies/_study_title.html.erb"
+			],
+			[
+				"launch",
+				"app/views/pool_requests/_launch_guide.html.erb"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 294.0,
+	"status_bar_visible": true
+}

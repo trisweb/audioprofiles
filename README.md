@@ -17,6 +17,7 @@ Implementation and Feature Plan
 
 2. **More complex profiles.**
 	- Users can add gear from a universal database of gear using a slick interface (search-as-you-type and selecting)
+	- Images for both Users (profile photos) and gear (single assets, or albums connected to users?) using the Dragonfly gem.
 	- Listing of gear by category, with statistics (number of owners, etc)
 	- Add gear that doesn't yet exist quickly and easily, with only simple information such as name, type, approximate price, and manufacturer.
 	- See who has what gear while browsing gear. Perhaps gear could be listed on profiles by category.
