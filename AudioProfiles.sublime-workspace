@@ -76,7 +76,10 @@
 	},
 	"file_history":
 	[
+		"/Users/trisweb/Projects/audioprofiles/app/views/layouts/application.html.erb",
+		"/Users/trisweb/Projects/audioprofiles/config/routes.rb",
 		"/Users/trisweb/Projects/audioprofiles/Gemfile",
+		"/Users/trisweb/Projects/audioprofiles/config/environments/development.rb",
 		"/Users/trisweb/SocialSci/socialsci/Gemfile",
 		"/Users/trisweb/Projects/audioprofiles/README.md",
 		"/Users/trisweb/Projects/audioprofiles/.git/COMMIT_EDITMSG",
@@ -369,6 +372,14 @@
 		"selected_items":
 		[
 			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"development.r",
+				"config/environments/development.rb"
+			],
+			[
 				"messagenew",
 				"app/views/messages/new.html.erb"
 			],
@@ -579,10 +590,6 @@
 			[
 				"launch",
 				"app/views/pool_requests/_launch_guide.html.erb"
-			],
-			[
-				"routes",
-				"config/routes.rb"
 			]
 		],
 		"width": 0.0
